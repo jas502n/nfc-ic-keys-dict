@@ -7,6 +7,22 @@ http://www.nsccn.com/web/soft/win/20210531/nfcPro.exe
 
 keys for ic: `1D14130D1A0B/000000000000`
 
+## 如何检测iC卡`类型`：
+
+`谷歌商店 =>> MIFARE Classic Tool =>> 工具 =>> 显示标签信息`
+
+```
+UID: xxxxx (4 byte)
+RF 技术：ISO/IEC 14443, Type A
+ATQA: 0004
+SAK: 08
+ATS: - 
+标签类型和制造商：MIFARE Classic 1k, NXP
+内存大小：1024 byte
+块大小：16 byte
+扇区数：16
+块数：64
+```
 ![image](https://user-images.githubusercontent.com/16593068/171908148-b28c3a76-410b-48a2-a76d-25d121b38521.png)
 
 
