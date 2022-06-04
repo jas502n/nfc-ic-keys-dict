@@ -12,6 +12,8 @@ keys for ic: `1D14130D1A0B/000000000000`
 
 NFC数据分析：
 
+![image](https://user-images.githubusercontent.com/16593068/171986488-a067734e-0396-4c62-acdf-4acd42413de4.png)
+
 接口1：
 `http://50216831.cn-shanghai.fc.aliyuncs.com/2016-08-15/proxy/NFCReaderTools/liftanalyze/?data=<hex_data>`
 
