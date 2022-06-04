@@ -10,3 +10,21 @@ keys for ic: `1D14130D1A0B/000000000000`
 ![image](https://user-images.githubusercontent.com/16593068/171908148-b28c3a76-410b-48a2-a76d-25d121b38521.png)
 
 
+NFC数据分析：
+
+接口1：
+`http://50216831.cn-shanghai.fc.aliyuncs.com/2016-08-15/proxy/NFCReaderTools/liftanalyze/?data=<hex_data>`
+
+接口2：
+`http://50216831.cn-shanghai.fc.aliyuncs.com/2021-04-06/proxy/NFCReaderTools/liftanalyze/?data=<hex_data>`
+
+![image](https://user-images.githubusercontent.com/16593068/171986435-8258a256-3a32-44be-bf21-68752de49d36.png)
+
+
+```bash
+
+检测到以下信息：
+鼎博门禁 - 2066.1.1 - 所在扇区:2
+无名门禁15 - 2021.10.14 - 所在扇区:6
+此分析由夏天IC助手提供,分析结果仅供参考，详情访问http://ic.aec8.com:88/zx.php
+```
