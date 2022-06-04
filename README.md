@@ -30,3 +30,9 @@ NFC数据分析：
 无名门禁15 - 2021.10.14 - 所在扇区:6
 此分析由夏天IC助手提供,分析结果仅供参考，详情访问http://ic.aec8.com:88/zx.php
 ```
+
+## 2次数据对比
+
+`两个文件总计有67个字节不同，分布在9个块内`
+![image](https://user-images.githubusercontent.com/16593068/171986679-609f9dc1-1dce-4ca0-9609-f4469cddfe99.png)
+
